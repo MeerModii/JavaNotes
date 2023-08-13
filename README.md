@@ -1,5 +1,5 @@
 # JavaNotes
-Notes for Java from beginning to OOPS & Exception handling.
+Java Programming Language Notes 
 These are notes form my computer science 113 Java course and the contents covered in this pdf are as follows:
 
 • Introduction to programming and Java programming language
