@@ -1,4 +1,4 @@
-# JavaNotes
+# Java Notes
 Java Programming Language Notes 
 These are notes form my computer science 113 Java course and the contents covered in this pdf are as follows:
 
