@@ -12,7 +12,7 @@ These are notes form my computer science 113 Java course and the contents covere
     b. Defining Classes and creating Objects
     c. Defining methods
     d. Inheritance
-    e. Polymorphism
+    e. Polymorphism 
 • Recursion
 • Exceptions
 • Collections
