@@ -1,6 +1,5 @@
 # Java Notes
-## Java Programming Language Notes
-These are notes from my Computer Science 113 & 114 Java course, and the contents covered in this PDFs are as follows:
+## These are notes from my Computer Science 113 & 114 Java course, and the contents covered in this PDFs are as follows:
 
 - Introduction to programming and Java programming language
 - Data and Expressions
